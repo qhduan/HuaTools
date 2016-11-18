@@ -36,6 +36,8 @@ yEd 画流程图
 
 [一个它的fork，用electron](https://github.com/evolus/pencil)
 
+[Reveal.js](https://github.com/hakimel/reveal.js) 用HTML写slides，虽然没真的用到，倒是我觉得可能以后会用到
+
 ## 编程工具
 
 [Jupyter Notebook](http://jupyter.org/) 大名鼎鼎的IPython（原名字），用python必须得用啊
