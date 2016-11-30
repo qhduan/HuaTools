@@ -38,6 +38,9 @@ yEd 画流程图
 
 [Reveal.js](https://github.com/hakimel/reveal.js) 用HTML写slides，虽然没真的用到，倒是我觉得可能以后会用到
 
+[SVG-Edit](https://github.com/SVG-Edit/svgedit)  
+[SVG-Edit-Try](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html)  一个很简单的SVG编辑器，Try可能随时失效
+
 ## 编程工具
 
 [Jupyter Notebook](http://jupyter.org/) 大名鼎鼎的IPython（原名字），用python必须得用啊
