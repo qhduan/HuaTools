@@ -41,10 +41,16 @@ yEd 画流程图
 [SVG-Edit](https://github.com/SVG-Edit/svgedit)  
 [SVG-Edit-Try](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html)  一个很简单的SVG编辑器，Try可能随时失效
 
+一个在线的图表绘制软件
+
+[Processon](https://www.processon.com/)
+
 ## 编程工具
 
 [Jupyter Notebook](http://jupyter.org/) 大名鼎鼎的IPython（原名字），用python必须得用啊
 
 [Atom](https://atom.io/) 我是用这个编辑一般项目的，对不起我很笨用不了emacs和vim～
 
+## 自动化工具
 
+[Rocket.chat](https://rocket.chat/)
