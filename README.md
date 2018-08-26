@@ -1,22 +1,21 @@
 
 # 我常用的工具
 
-qhduan#memect.co
+mail@qhduan.com
 
-主要操作系统是Ubuntu 16.04
+主要操作系统是Ubuntu 16.04 / 18.04
 
 我的一般原则是，如果是软件，尽量是免费+开源，其次免费，其次收费
 
 ## 前端工具
 
-gcolor 屏幕取色（Ubuntu仓库自带）
+~~gcolor 屏幕取色（Ubuntu仓库自带）~~ 18.04已经没有了，改用了gpick
 
 gimp 图像编辑软件，代替photoshop（ubuntu仓库自带）
 
 [CSS中box-shadow的在线设计工具](http://www.cssmatic.com/box-shadow)
 
 [CSS中FlexBox的在线预览工具](http://the-echoplex.net/flexyboxes)
-
 
 ## 工程设计
 
@@ -49,8 +48,14 @@ yEd 画流程图
 
 [Jupyter Notebook](http://jupyter.org/) 大名鼎鼎的IPython（原名字），用python必须得用啊
 
-[Atom](https://atom.io/) 我是用这个编辑一般项目的，对不起我很笨用不了emacs和vim～
+[VS Code](https://code.visualstudio.com/)
 
 ## 自动化工具
 
 [Rocket.chat](https://rocket.chat/)
+
+[持续集成 Travis CI](https://travis-ci.com/)
+
+## 其他
+
+[设计各种徽章 shields.io](https://shields.io/)
