@@ -88,3 +88,7 @@ gimp 图像编辑软件，代替photoshop（ubuntu仓库自带）
 ## 其他
 
 [设计各种徽章 shields.io](https://shields.io/)
+
+[把curl转换为各种语言 https://curl.trillworks.com/ ](https://curl.trillworks.com/)
+
+[把docker命令改为docker-compose yaml https://www.composerize.com/](https://www.composerize.com/)
