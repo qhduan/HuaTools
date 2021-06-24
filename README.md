@@ -42,7 +42,7 @@ gimp 图像编辑软件，代替photoshop（ubuntu仓库自带）
 
 [Diagrams.net 原来叫 drow.io，可以认为是processon的国外版本（或者processon是它的国内版本）](https://app.diagrams.net/)
 
-[mermaid可以插入到markdown的语义化流程图语言，你值得拥有](https://mermaid-js.github.io/mermaid/#/)
+[mermaid可以插入到markdown的语义化流程图语言，你值得拥有](https://mermaid-js.github.io/mermaid-live-editor/)
 
 ### 产品设计
 
