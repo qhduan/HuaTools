@@ -38,7 +38,11 @@ gimp 图像编辑软件，代替photoshop（ubuntu仓库自带）
 
 [本地版下载java](https://www.yworks.com/downloads#yEd)
 
+#### 其他
+
 [Diagrams.net 原来叫 drow.io，可以认为是processon的国外版本（或者processon是它的国内版本）](https://app.diagrams.net/)
+
+[mermaid可以插入到markdown的语义化流程图语言，你值得拥有](https://mermaid-js.github.io/mermaid/#/)
 
 ### 产品设计
 
@@ -46,13 +50,15 @@ gimp 图像编辑软件，代替photoshop（ubuntu仓库自带）
 
 [收费软件，免费30天](https://balsamiq.com/products/mockups/)
 
-#### 产品原型设计
+#### 产品原型设计pencel
 
 还是比balsamiq差一点，免费
 
 原版pencil支持的firefox版本有限制
 
 [一个它的fork，用electron](https://github.com/evolus/pencil) 比较老了
+
+#### 其他
 
 axure pr 国人用的很多的原型工具，不要时很喜欢
 
